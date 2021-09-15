@@ -18,3 +18,7 @@
 |
 └── README.md  
 ```
+
+[Preparazione Ufficiale 101](https://learning.lpi.org/en/learning-materials/101-500/)
+
+[Preparazione Ufficiale 102](https://learning.lpi.org/en/learning-materials/102-500/)
